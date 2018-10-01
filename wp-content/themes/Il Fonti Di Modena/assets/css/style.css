@@ -7782,8 +7782,8 @@ h1, h2, h3, h4, h5,
         line-height: 1.4; }
   .dish-menu .menus .menu-img {
     margin-right: 20px;
-    width: 70px;
-    height: 70px;
+    width: 80px;
+    height: 80px;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
@@ -8069,7 +8069,7 @@ textarea.form-control {
 
 .ftco-footer {
   font-size: 16px;
-  background: #27272b;
+  background: #707070;
   padding: 8em 0; }
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
